@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Stickman Runner</title>
+    <title>Stickman Game</title>
     <style>
         body {
             margin: 0;
@@ -3269,5 +3269,3 @@ gameLoop();
 
 </body>
 </html>
-
-
