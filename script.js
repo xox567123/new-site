@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Stickman Game</title>
+    <title>Stickman Runner</title>
     <style>
         body {
             margin: 0;
